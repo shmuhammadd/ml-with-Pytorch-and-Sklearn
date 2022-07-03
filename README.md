@@ -6,5 +6,5 @@ Theses are Notebooks and recording for our bookclub study session at ArewaDataSc
 
 | Chapter  |         Code |   Recording   |
 | ------------- | ------------- | ------------- |
-| Chapter 1  | [Giving computer ability to learn](https://github.com/shmuhammad2004/nlp_with_pytorch/blob/main/chapters/chapter_1/tensor.
+| Chapter 1  | [Giving computer ability to learn](https://github.com/shmuhammad2004/ml-with-Pytorch-and-Sklearn/blob/main/chapters/ch01/ch01.ipynb)
 ****
