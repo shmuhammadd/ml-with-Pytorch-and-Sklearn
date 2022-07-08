@@ -6,6 +6,7 @@ Theses are Notebooks and recording for our bookclub study session at ArewaDataSc
 
 | Chapter  |         Code |   Recording   |
 | ------------- | ------------- | ------------- |
+| Chapter 0  | Set-up: Working with Jupyter Notebooks in Visual Studio Code | [Recording](https://www.youtube.com/watch?v=RBtw8xmvQ5k) 
 | Chapter 1  | [Giving computer ability to learn](https://github.com/shmuhammad2004/ml-with-Pytorch-and-Sklearn/blob/main/chapters/ch01/ch01.ipynb) | [Recording](https://www.youtube.com/watch?v=RgQSa1PRu00) 
 | Chapter 2  | |
 | Chapter 3  | | 
